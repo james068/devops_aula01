@@ -1,0 +1,9 @@
+- Situação de você renomear um arquivo num branch e apagar o arquivo num outro branch tem conflito no Subversion ou CVS, no Git esse conflito não existe, o Git rastreia primeiro o conteúdo, depois os metadados;
+
+- A estrutura de dados do Git é aberta e razoavelmente simples de trabalhar;
+
+- Facilidade para troca de projetos, a fim de obter contribuições, sem perder a origem dos dados já armazenados;
+
+- Dois desenvolvedores podem trabalhar no mesmo projeto;
+
+- Não há necessidade de ter várias versões dos arquivos com códigos, diminuindo o uso de memória;
